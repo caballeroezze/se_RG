@@ -60,7 +60,7 @@ Editar
 python src/main.py
 Se abrirá una interfaz web local para interactuar con el sistema.
 
-📊 Incluye modelo con scikit-learn
+Incluye modelo con scikit-learn
 El proyecto también entrena un árbol de decisión con scikit-learn, usando categoría y perfil como variables de entrada, y lugar como salida. Esto cumple con los requisitos técnicos del proyecto y demuestra una alternativa automática a la lógica manual.
 
 Video de presentación
